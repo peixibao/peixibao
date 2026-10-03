@@ -1,16 +1,21 @@
-## Hi there 👋
+# Peixi Bao
 
-<!--
-**peixibao/peixibao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Preventive Medicine student at Hangzhou Normal University with research interests in epidemiology, biostatistics, clinical research, and population health.
 
-Here are some ideas to get you started:
+## Research Interests
+- Clinical and population epidemiology
+- Sleep and respiratory health
+- Metabolic health
+- Behavioral and mental health
+- Applied biostatistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Methods
+- Multivariable regression
+- Modified Poisson regression
+- Interaction and effect-modification analysis
+- Restricted cubic splines
+- Subgroup and sensitivity analyses
+- Exploratory factor analysis
+
+## Tools
+R · Python · EpiData
