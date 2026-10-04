@@ -43,4 +43,5 @@ Outside research, I work in digital illustration and visual design, with interes
 
 I also enjoy applying visual thinking to scientific posters, presentations, and research communication.
 
-**Art tools:** Clip Studio Paint · PaintTool SAI · Adobe Photoshop · Procreate
+**Art tools:** 
+Clip Studio Paint · PaintTool SAI · Adobe Photoshop · Procreate
