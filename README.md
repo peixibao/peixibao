@@ -28,14 +28,16 @@ R · Python · EpiData
 
 ## Selected Projects
 
-- **Epidemiology Analysis Demo**  
+- **[Epidemiology Analysis Demo](https://github.com/peixibao/epidemiology-analysis-demo)**  
   Reproducible epidemiologic analysis using synthetic data in R.
 
-- **Survey & Psychometrics Analysis Demo**  
-  Reproducible questionnaire analysis including EFA, co-occurrence analysis, clustering, and FDR correction.
+- **[Survey & Psychometrics Analysis Demo](https://github.com/peixibao/survey-psychometrics-analysis-demo)**  
+  Reproducible questionnaire analysis using synthetic data in R, including EFA, co-occurrence analysis, clustering, and FDR correction.
 
-- **Art Portfolio**  
+- **[Art Portfolio](https://github.com/peixibao/art-portfolio)**  
   Selected digital illustration and visual design work created under the artist alias **AR**.
+
+Both analysis demos use synthetic data only; no real participant, patient, hospital, survey, or unpublished research-project data are included.
 
 ## Creative Practice
 
