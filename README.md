@@ -35,7 +35,7 @@ R · Python · EpiData
   Reproducible questionnaire analysis using synthetic data in R, including EFA, co-occurrence analysis, clustering, and FDR correction.
 
 - **[Preventive Medicine Analysis Demo](https://github.com/peixibao/preventive-medicine-analysis-demo)**  
-  Reproducible preventive-health workflow using synthetic data in R, integrating joint sedentary-behavior exposures, cardiometabolic risk markers, prevalence-ratio models, standardization, sensitivity analyses, and automated CI checks.
+  Reproducible analysis of synthetic preventive-health data in R, including joint-exposure models, cardiometabolic risk markers, and sensitivity analyses.
 
 - **[Art Portfolio](https://github.com/peixibao/art-portfolio)**  
   Selected digital illustration and visual design work created under the artist alias **AR**.
